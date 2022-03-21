@@ -1,0 +1,16 @@
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\Lecture_7.csproj.AssemblyReference.cache
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\Lecture_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\Lecture_7.AssemblyInfoInputs.cache
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\Lecture_7.AssemblyInfo.cs
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\Lecture_7.csproj.CoreCompileInputs.cache
+C:\Users\borat\Desktop\Lecture_7\bin\Debug\net5.0\Lecture_7.exe
+C:\Users\borat\Desktop\Lecture_7\bin\Debug\net5.0\Lecture_7.deps.json
+C:\Users\borat\Desktop\Lecture_7\bin\Debug\net5.0\Lecture_7.runtimeconfig.json
+C:\Users\borat\Desktop\Lecture_7\bin\Debug\net5.0\Lecture_7.runtimeconfig.dev.json
+C:\Users\borat\Desktop\Lecture_7\bin\Debug\net5.0\Lecture_7.dll
+C:\Users\borat\Desktop\Lecture_7\bin\Debug\net5.0\Lecture_7.pdb
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\Lecture_7.dll
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\refint\Lecture_7.dll
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\Lecture_7.pdb
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\Lecture_7.genruntimeconfig.cache
+C:\Users\borat\Desktop\Lecture_7\obj\Debug\net5.0\ref\Lecture_7.dll
